@@ -43,3 +43,7 @@ This project predicts whether graduates are overqualified for their current jobs
 
 ```bash
 pip install catboost pandas numpy scikit-learn
+
+## Graduate Underemployment Prediction (HackML 2026)
+
+🔗 Competition Page: https://www.kaggle.com/competitions/ng-hackml-2026/overview
